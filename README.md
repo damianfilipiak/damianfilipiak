@@ -1,8 +1,8 @@
 # Hi, I'm Damian 👋
 
-I'm an IT Engineer based in Poland, working with local production and office infrastructure — networks, virtualization, and server systems. My goal is to move into a **Network Engineer** or **DevOps Engineer** role.
+I'm an IT Engineer based in Poland, working with local production and office infrastructure - networks, virtualization, and server systems. My goal is to move into a **Network Engineer** or **DevOps Engineer** role.
 
-- 🔭 Currently working as a **Junior IT Specialist** at Forvia S.A. 
+- 🔭 Currently working as a **Junior IT Specialist** at Forvia S.A. Wałbrzych
 - 🎓 **Engineer's degree in Computer Science** - specialization in Cybersecurity and Computer Networks
 - 🌱 Learning: Docker, Kubernetes (k3s), Terraform, and cloud infrastructure (AWS) and preparing for Microsoft AZ-900 (Azure Fundamentals) Certification
 - 🏠 Building a **Homelab**: pfSense firewall, VLAN segmentation, Active Directory, RBAC, Docker + k3s, Prometheus + Grafana monitoring
