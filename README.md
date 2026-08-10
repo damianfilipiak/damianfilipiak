@@ -4,7 +4,8 @@ I'm an IT Engineer based in Poland, working with local production and office inf
 
 - 🔭 Currently working as a **Junior IT Specialist** at Forvia S.A. Wałbrzych
 - 🎓 **Engineer's degree in Computer Science** - specialization in Cybersecurity and Computer Networks
-- 🌱 Learning: Docker, Kubernetes (k3s), Terraform, and cloud infrastructure (AWS) and preparing for Microsoft AZ-900 (Azure Fundamentals) Certification
+- 🌱 Learning: Docker, Kubernetes (k3s), Terraform, and cloud infrastructure (AWS).
+- 📖 Udemy (learning): Linux Administration (RHCSA, RHCE, LFCS, LPIC and CompTIA Linux+), CompTIA Security+, CCNA
 - 🏠 Building a **Homelab**: pfSense firewall, VLAN segmentation, Active Directory, RBAC, Docker + k3s, Prometheus + Grafana monitoring
 - 💼 Portfolio: [damianfilipiak.vercel.app](https://damianfilipiak.vercel.app)
 - 📫 Reach me: damian.filipiak02@gmail.com
